@@ -37,9 +37,9 @@ Validation Dice Coefficient (F1-Score): Average of the Dice scores across all cl
 ## Results
 After training, the model achieved the following metrics on the validation set:
 
-Validation Loss: 2.8018
-Validation Accuracy: 0.0817
+Validation Loss: 0.9238
+Validation Accuracy: 0.8113
 Validation Mean IoU (Jaccard Index): 0.4286
-Validation Dice Coefficient (F1-Score): 0.1430
+Validation Dice Coefficient (F1-Score): 0.7199
 Model Export
 The trained model is saved in HDF5 format (cloud_segment_model.h5) and made available for download.
